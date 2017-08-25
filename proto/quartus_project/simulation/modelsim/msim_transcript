@@ -1,0 +1,142 @@
+# Reading C:/altera/15.0/modelsim_ase/tcl/vsim/pref.tcl
+# do senior_proj_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim PE vmap 10.3d Lib Mapping Utility 2014.10 Oct  7 2014
+# vmap -modelsim_quiet work rtl_work 
+# Copying C:/altera/15.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:/altera/15.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {D:/Donald/Documents/senior_proj/hdl/zero_crossing_dect.vhd}
+# Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 18:25:54 on Jul 10,2015
+# vcom -reportprogress 300 -93 -work work D:/Donald/Documents/senior_proj/hdl/zero_crossing_dect.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity zero_crossing_dect
+# -- Compiling architecture behav of zero_crossing_dect
+# End time: 18:25:54 on Jul 10,2015, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/Donald/Documents/senior_proj/hdl/top_level_wrapper.vhd}
+# Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 18:25:54 on Jul 10,2015
+# vcom -reportprogress 300 -93 -work work D:/Donald/Documents/senior_proj/hdl/top_level_wrapper.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity top_level_wrapper
+# -- Compiling architecture behav of top_level_wrapper
+# End time: 18:25:54 on Jul 10,2015, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/Donald/Documents/senior_proj/hdl/rms_calc.vhd}
+# Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 18:25:54 on Jul 10,2015
+# vcom -reportprogress 300 -93 -work work D:/Donald/Documents/senior_proj/hdl/rms_calc.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity rms_calc
+# -- Compiling architecture behav of rms_calc
+# End time: 18:25:55 on Jul 10,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/Donald/Documents/senior_proj/hdl/populate_fifo.vhd}
+# Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 18:25:55 on Jul 10,2015
+# vcom -reportprogress 300 -93 -work work D:/Donald/Documents/senior_proj/hdl/populate_fifo.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity populate_fifo
+# -- Compiling architecture behav of populate_fifo
+# End time: 18:25:55 on Jul 10,2015, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/Donald/Documents/senior_proj/hdl/genData.vhd}
+# Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 18:25:55 on Jul 10,2015
+# vcom -reportprogress 300 -93 -work work D:/Donald/Documents/senior_proj/hdl/genData.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity genData
+# -- Compiling architecture behav of genData
+# ** Warning: D:/Donald/Documents/senior_proj/hdl/genData.vhd(57): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+# 
+# End time: 18:25:56 on Jul 10,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+# vcom -93 -work work {D:/Donald/Documents/senior_proj/hdl/freq_dect.vhd}
+# Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 18:25:56 on Jul 10,2015
+# vcom -reportprogress 300 -93 -work work D:/Donald/Documents/senior_proj/hdl/freq_dect.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity freq_dect
+# -- Compiling architecture behav of freq_dect
+# End time: 18:25:56 on Jul 10,2015, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/Donald/Documents/senior_proj/hdl/edge_dect.vhd}
+# Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 18:25:56 on Jul 10,2015
+# vcom -reportprogress 300 -93 -work work D:/Donald/Documents/senior_proj/hdl/edge_dect.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity edge_dect
+# -- Compiling architecture behav of edge_dect
+# End time: 18:25:56 on Jul 10,2015, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/Donald/Documents/senior_proj/quartus_project/fifo.vhd}
+# Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 18:25:56 on Jul 10,2015
+# vcom -reportprogress 300 -93 -work work D:/Donald/Documents/senior_proj/quartus_project/fifo.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fifo
+# -- Compiling architecture SYN of fifo
+# End time: 18:25:57 on Jul 10,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/Donald/Documents/senior_proj/quartus_project/mult.vhd}
+# Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 18:25:57 on Jul 10,2015
+# vcom -reportprogress 300 -93 -work work D:/Donald/Documents/senior_proj/quartus_project/mult.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mult
+# -- Compiling architecture SYN of mult
+# End time: 18:25:57 on Jul 10,2015, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/Donald/Documents/senior_proj/quartus_project/sqrt.vhd}
+# Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 18:25:57 on Jul 10,2015
+# vcom -reportprogress 300 -93 -work work D:/Donald/Documents/senior_proj/quartus_project/sqrt.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity sqrt
+# -- Compiling architecture SYN of sqrt
+# End time: 18:25:58 on Jul 10,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 

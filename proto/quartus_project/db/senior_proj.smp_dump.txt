@@ -1,0 +1,21 @@
+
+State Machine - |top_level_wrapper|freq_dect:v_freq_dect_inst|state
+Name state.count state.latch_freq_dect state.reset_state 
+state.reset_state 0 0 0 
+state.latch_freq_dect 0 1 1 
+state.count 1 0 1 
+
+State Machine - |top_level_wrapper|populate_fifo:pop_fifo_inst|state
+Name state.store state.square state.subtract state.idle 
+state.idle 0 0 0 0 
+state.subtract 0 0 1 1 
+state.square 0 1 0 1 
+state.store 1 0 0 1 
+
+State Machine - |top_level_wrapper|rms_calc:v_rms_inst|state
+Name state.report_rms state.square_rt state.divide_by_n state.sum_data state.idle 
+state.idle 0 0 0 0 0 
+state.sum_data 0 0 0 1 1 
+state.divide_by_n 0 0 1 0 1 
+state.square_rt 0 1 0 0 1 
+state.report_rms 1 0 0 0 1 

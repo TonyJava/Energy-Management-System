@@ -1,0 +1,424 @@
+m255
+K3
+13
+cModel Technology
+dD:\Donald\OneDrive\RIT\Q9\Projects\modelsim
+Eedge_dect
+Z0 w1434857257
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dD:\Donald\Documents\senior_proj\modelsim
+Z6 8D:/Donald/Documents/senior_proj/modelsim/hdl/edge_dect.vhd
+Z7 FD:/Donald/Documents/senior_proj/modelsim/hdl/edge_dect.vhd
+l0
+L16
+VQ^KM;@mMeV^=9Z:P@Pz4A3
+Z8 OV;C;10.1e;51
+32
+Z9 !s108 1436486882.827000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Donald/Documents/senior_proj/modelsim/hdl/edge_dect.vhd|
+Z11 !s107 D:/Donald/Documents/senior_proj/modelsim/hdl/edge_dect.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 df00>A09GU1GzD=;Eo8dF2
+!i10b 1
+Abehav
+R1
+R2
+R3
+R4
+DEx4 work 9 edge_dect 0 22 Q^KM;@mMeV^=9Z:P@Pz4A3
+l38
+L26
+V=em_48SkbA4G>IDCFc1QU0
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 3f859Y7AmofnN3i[eaN=11
+!i10b 1
+Efifo
+Z14 w1436409211
+R3
+R4
+R5
+Z15 8D:/Donald/Documents/senior_proj/quartus_project/fifo.vhd
+Z16 FD:/Donald/Documents/senior_proj/quartus_project/fifo.vhd
+l0
+L43
+VoKdo2Yh2Q4n4boi9kVkgV3
+R8
+32
+Z17 !s108 1436486882.686000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Donald/Documents/senior_proj/quartus_project/fifo.vhd|
+Z19 !s107 D:/Donald/Documents/senior_proj/quartus_project/fifo.vhd|
+R12
+R13
+!s100 flaR2h74M50Bk:`kga?z<1
+!i10b 1
+Asyn
+R3
+R4
+DEx4 work 4 fifo 0 22 oKdo2Yh2Q4n4boi9kVkgV3
+l92
+L58
+V_o1L^cLSzM1dIU=^6=:P51
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 3=aWb:bb6@?F2IATV4;Oc0
+!i10b 1
+Efreq_dect
+Z20 w1436447256
+R1
+R2
+R3
+R4
+R5
+Z21 8D:/Donald/Documents/senior_proj/modelsim/hdl/freq_dect.vhd
+Z22 FD:/Donald/Documents/senior_proj/modelsim/hdl/freq_dect.vhd
+l0
+L16
+VXPK?DQO5U7JLnjS>EhTPm2
+R8
+32
+Z23 !s108 1436486883.426000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Donald/Documents/senior_proj/modelsim/hdl/freq_dect.vhd|
+Z25 !s107 D:/Donald/Documents/senior_proj/modelsim/hdl/freq_dect.vhd|
+R12
+R13
+!s100 oHd@Gb`P]IjQ8S:d]:WdL0
+!i10b 1
+Abehav
+R1
+R2
+R3
+R4
+DEx4 work 9 freq_dect 0 22 XPK?DQO5U7JLnjS>EhTPm2
+l49
+L25
+VGM39cOg5eT^o=g:z7QL_j3
+R8
+32
+R23
+R24
+R25
+R12
+R13
+!s100 SMl]cCL_S`VAbZoFS:7LB3
+!i10b 1
+Egendata
+Z26 w1436406700
+Z27 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+R4
+R5
+Z28 8D:/Donald/Documents/senior_proj/modelsim/hdl/genData.vhd
+Z29 FD:/Donald/Documents/senior_proj/modelsim/hdl/genData.vhd
+l0
+L19
+V;7_<]9VHba1RO3E]39FQ23
+R8
+32
+Z30 !s108 1436486882.195000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Donald/Documents/senior_proj/modelsim/hdl/genData.vhd|
+Z32 !s107 D:/Donald/Documents/senior_proj/modelsim/hdl/genData.vhd|
+R12
+R13
+!s100 Cn59DgVB>ociJMLA2W`0K2
+!i10b 1
+Abehav
+R27
+R1
+R2
+R3
+R4
+DEx4 work 7 gendata 0 22 ;7_<]9VHba1RO3E]39FQ23
+l40
+L28
+VRm_UDi;JT[VEhR6SzR8Lb0
+R8
+32
+R30
+R31
+R32
+R12
+R13
+!s100 eT4C9_=F]L[W4SnkO7Zj_3
+!i10b 1
+Emult
+Z33 w1436408316
+R3
+R4
+R5
+Z34 8D:/Donald/Documents/senior_proj/quartus_project/mult.vhd
+Z35 FD:/Donald/Documents/senior_proj/quartus_project/mult.vhd
+l0
+L43
+VV4V71cU31JgGR9_=o<`8G3
+R8
+32
+Z36 !s108 1436486883.126000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Donald/Documents/senior_proj/quartus_project/mult.vhd|
+Z38 !s107 D:/Donald/Documents/senior_proj/quartus_project/mult.vhd|
+R12
+R13
+!s100 >ia8ha^AfL8[ACSPWn?d^3
+!i10b 1
+Asyn
+R3
+R4
+DEx4 work 4 mult 0 22 V4V71cU31JgGR9_=o<`8G3
+l72
+L52
+VC1aKBIjD5=UjhJ37hzbhK0
+R8
+32
+R36
+R37
+R38
+R12
+R13
+!s100 EYF@^hXe=]dGbm9H0NV^U2
+!i10b 1
+Epopulate_fifo
+Z39 w1436445474
+R1
+Z40 DPx4 ieee 16 std_logic_signed 0 22 E>OLoMaBGQ?hbGgOoNXM^1
+R3
+R4
+R5
+Z41 8D:/Donald/Documents/senior_proj/modelsim/hdl/populate_fifo.vhd
+Z42 FD:/Donald/Documents/senior_proj/modelsim/hdl/populate_fifo.vhd
+l0
+L16
+VoWLYi1W`9`:]DeF9b>?5]1
+R8
+32
+Z43 !s108 1436486882.991000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Donald/Documents/senior_proj/modelsim/hdl/populate_fifo.vhd|
+Z45 !s107 D:/Donald/Documents/senior_proj/modelsim/hdl/populate_fifo.vhd|
+R12
+R13
+!s100 I7Z7VEZF=b<Uf9o@KNg`00
+!i10b 1
+Abehav
+R1
+R40
+R3
+R4
+DEx4 work 13 populate_fifo 0 22 oWLYi1W`9`:]DeF9b>?5]1
+l60
+L27
+VzO_DNheR>@SdF6X786HV61
+R8
+32
+R43
+R44
+R45
+R12
+R13
+!s100 VC7oLZb@VlgmB_EJN2;4m0
+!i10b 1
+Erms_calc
+Z46 w1436487100
+R1
+R2
+R3
+R4
+R5
+Z47 8D:\Donald\Documents\senior_proj\modelsim\hdl\rms_calc.vhd
+Z48 FD:\Donald\Documents\senior_proj\modelsim\hdl\rms_calc.vhd
+l0
+L16
+V1W[0d2?GPB]d>S^<ILdN]1
+R8
+32
+Z49 !s108 1436487124.790000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Donald\Documents\senior_proj\modelsim\hdl\rms_calc.vhd|
+Z51 !s107 D:\Donald\Documents\senior_proj\modelsim\hdl\rms_calc.vhd|
+R12
+R13
+!s100 <;OXYn7cjOWPL7@z9dWz`1
+!i10b 1
+Abehav
+R1
+R2
+R3
+R4
+DEx4 work 8 rms_calc 0 22 1W[0d2?GPB]d>S^<ILdN]1
+l53
+L28
+VDaO]fPkZUNCNm:cVne^6Z0
+R8
+32
+R49
+R50
+R51
+R12
+R13
+!s100 4YI>8^T9n2YX0Jim`aaOA3
+!i10b 1
+Esqrt
+Z52 w1436411396
+R3
+R4
+R5
+Z53 8D:/Donald/Documents/senior_proj/quartus_project/sqrt.vhd
+Z54 FD:/Donald/Documents/senior_proj/quartus_project/sqrt.vhd
+l0
+L43
+VVSj:9=_niz8g2c@`5PY`o1
+R8
+32
+Z55 !s108 1436486883.291000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Donald/Documents/senior_proj/quartus_project/sqrt.vhd|
+Z57 !s107 D:/Donald/Documents/senior_proj/quartus_project/sqrt.vhd|
+R12
+R13
+!s100 mIjaG^iMPNJUYo?;2OFlD0
+!i10b 1
+Asyn
+R3
+R4
+DEx4 work 4 sqrt 0 22 VSj:9=_niz8g2c@`5PY`o1
+l75
+L53
+V6Mo?YBlQc9KiLI[7zdzzd2
+R8
+32
+R55
+R56
+R57
+R12
+R13
+!s100 23;Y[4BJcE_^1a;i;Xcc50
+!i10b 1
+Etop_level_wrapper
+Z58 w1436448256
+R1
+R2
+R3
+R4
+R5
+Z59 8D:/Donald/Documents/senior_proj/modelsim/hdl/top_level_wrapper.vhd
+Z60 FD:/Donald/Documents/senior_proj/modelsim/hdl/top_level_wrapper.vhd
+l0
+L16
+VdanLlI[oo2@G^X]NHdL=K1
+R8
+32
+Z61 !s108 1436486882.408000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Donald/Documents/senior_proj/modelsim/hdl/top_level_wrapper.vhd|
+Z63 !s107 D:/Donald/Documents/senior_proj/modelsim/hdl/top_level_wrapper.vhd|
+R12
+R13
+!s100 _lF>AjfnL`8e5V0_>n0ZC0
+!i10b 1
+Abehav
+R1
+R2
+R3
+R4
+DEx4 work 17 top_level_wrapper 0 22 danLlI[oo2@G^X]NHdL=K1
+l108
+L23
+V2=AjNH0kcPZCzToSjaiFU0
+R8
+32
+R61
+R62
+R63
+R12
+R13
+!s100 oa0UL:>eIODHkKP0<3e3m1
+!i10b 1
+Ewrapper_tb
+Z64 w1436402151
+R1
+R2
+R3
+R4
+R5
+Z65 8D:/Donald/Documents/senior_proj/modelsim/hdl/wrapper_tb.vhd
+Z66 FD:/Donald/Documents/senior_proj/modelsim/hdl/wrapper_tb.vhd
+l0
+L16
+VBFbVk81:?YDek<k]hkCk_0
+R8
+32
+Z67 !s108 1436486882.559000
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Donald/Documents/senior_proj/modelsim/hdl/wrapper_tb.vhd|
+Z69 !s107 D:/Donald/Documents/senior_proj/modelsim/hdl/wrapper_tb.vhd|
+R12
+R13
+!s100 DajR[Zb3l;XL[iF2iUeAg0
+!i10b 1
+Atb
+R1
+R2
+R3
+R4
+DEx4 work 10 wrapper_tb 0 22 BFbVk81:?YDek<k]hkCk_0
+l37
+L19
+VVlT4EfUEMBUWfhU>[UzUL2
+R8
+32
+R67
+R68
+R69
+R12
+R13
+!s100 ]o8Q3nd1<0kjdggBm5JYI3
+!i10b 1
+Ezero_crossing_dect
+Z70 w1436494611
+R1
+R2
+R3
+R4
+R5
+Z71 8D:\Donald\Documents\senior_proj\modelsim\hdl\zero_crossing_dect.vhd
+Z72 FD:\Donald\Documents\senior_proj\modelsim\hdl\zero_crossing_dect.vhd
+l0
+L16
+V@=_d3OX35zg^e>[TJFSm31
+!s100 071f2IfGLDCR6QTKNHSFO3
+R8
+32
+!i10b 1
+Z73 !s108 1436494624.553000
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Donald\Documents\senior_proj\modelsim\hdl\zero_crossing_dect.vhd|
+Z75 !s107 D:\Donald\Documents\senior_proj\modelsim\hdl\zero_crossing_dect.vhd|
+R12
+R13
+Abehav
+R1
+R2
+R3
+R4
+Z76 DEx4 work 18 zero_crossing_dect 0 22 @=_d3OX35zg^e>[TJFSm31
+l49
+L26
+Vf[hgf@KXD2nmfB^jW6NVC1
+!s100 V0WV3MGe@b4[b`_@1Gf0A2
+R8
+32
+!i10b 1
+R73
+R74
+R75
+R12
+R13

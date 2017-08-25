@@ -1,0 +1,311 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/15.0
+Eadc128s022_interface
+Z0 w1444352965
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Donald/Desktop/FPGA_remote_outlet
+Z6 8C:/Users/Donald/Desktop/FPGA_remote_outlet/hdl/adc128s022_interface.vhd
+Z7 FC:/Users/Donald/Desktop/FPGA_remote_outlet/hdl/adc128s022_interface.vhd
+l0
+L16
+VZi<keHEFK<S=U?]^Y6<@?3
+!s100 LUg?Q[Fickf2L^D>^2Y^^1
+Z8 OV;C;10.3d;59
+32
+Z9 !s110 1446172086
+!i10b 1
+Z10 !s108 1446172086.176000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Donald/Desktop/FPGA_remote_outlet/hdl/adc128s022_interface.vhd|
+Z12 !s107 C:/Users/Donald/Desktop/FPGA_remote_outlet/hdl/adc128s022_interface.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Abehav
+R1
+R2
+R3
+R4
+DEx4 work 20 adc128s022_interface 0 22 Zi<keHEFK<S=U?]^Y6<@?3
+l68
+L37
+V5z6nTSgU5<DC66?QIgVC:2
+!s100 mkz2H9?jVR8XI^Jkd_VOL3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eadc_128s002_model
+R0
+R1
+R2
+R3
+R4
+R5
+Z15 8C:/Users/Donald/Desktop/FPGA_remote_outlet/stimulus/adc_128S002_model.vhd
+Z16 FC:/Users/Donald/Desktop/FPGA_remote_outlet/stimulus/adc_128S002_model.vhd
+l0
+L16
+V`TD_SUFkh0KFEg<S>I74h1
+!s100 _h<4NaV[34jGPoD9bC37m3
+R8
+32
+Z17 !s110 1446172088
+!i10b 1
+Z18 !s108 1446172088.758000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Donald/Desktop/FPGA_remote_outlet/stimulus/adc_128S002_model.vhd|
+Z20 !s107 C:/Users/Donald/Desktop/FPGA_remote_outlet/stimulus/adc_128S002_model.vhd|
+!i113 1
+R13
+R14
+Abehav
+R1
+R2
+R3
+R4
+DEx4 work 17 adc_128s002_model 0 22 `TD_SUFkh0KFEg<S>I74h1
+l41
+L28
+Vce[FlIDg`n7[<Z?>l10WG1
+!s100 [IJ27gPiF9U]`d@^Hg3dA0
+R8
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R13
+R14
+Eedge_dect
+Z21 w1444357738
+R1
+R2
+R3
+R4
+R5
+Z22 8C:/Users/Donald/Desktop/FPGA_remote_outlet/hdl/edge_dect.vhd
+Z23 FC:/Users/Donald/Desktop/FPGA_remote_outlet/hdl/edge_dect.vhd
+l0
+L16
+V:=UZSdQl61mn0Y8h;G@DS0
+!s100 zV`DXN2<;9df7eCUDz5Zz2
+R8
+32
+Z24 !s110 1446172091
+!i10b 1
+Z25 !s108 1446172091.351000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Donald/Desktop/FPGA_remote_outlet/hdl/edge_dect.vhd|
+Z27 !s107 C:/Users/Donald/Desktop/FPGA_remote_outlet/hdl/edge_dect.vhd|
+!i113 1
+R13
+R14
+Abehav
+R1
+R2
+R3
+R4
+DEx4 work 9 edge_dect 0 22 :=UZSdQl61mn0Y8h;G@DS0
+l38
+L26
+Vh^9oIAH_<MNk7:2G_ZkgN0
+!s100 KmcZS5E=cH21>LLVROSaY1
+R8
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R13
+R14
+Ei2c_master_djm
+Z28 w1445539207
+R1
+R2
+R3
+R4
+R5
+Z29 8C:/Users/Donald/Desktop/FPGA_remote_outlet/hdl/i2c_master_djm.vhd
+Z30 FC:/Users/Donald/Desktop/FPGA_remote_outlet/hdl/i2c_master_djm.vhd
+l0
+L36
+Vl]H:??07Ja]`ZUI^nIJd?0
+!s100 5R=@3PZYiR5[BejbRdNX_1
+R8
+32
+Z31 !s110 1446172092
+!i10b 1
+Z32 !s108 1446172092.645000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Donald/Desktop/FPGA_remote_outlet/hdl/i2c_master_djm.vhd|
+Z34 !s107 C:/Users/Donald/Desktop/FPGA_remote_outlet/hdl/i2c_master_djm.vhd|
+!i113 1
+R13
+R14
+Alogic
+R1
+R2
+R3
+R4
+DEx4 work 14 i2c_master_djm 0 22 l]H:??07Ja]`ZUI^nIJd?0
+l71
+L55
+VY=G@hYf7h2c9RofZ:_W[A3
+!s100 kz`=]I^9nR4LX3O`^hI??2
+R8
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R13
+R14
+Eplc_i2c_fsm
+Z35 w1446670876
+R1
+R2
+R3
+R4
+R5
+Z36 8C:\Users\Donald\Desktop\FPGA_remote_outlet\hdl\plc_i2c_fsm.vhd
+Z37 FC:\Users\Donald\Desktop\FPGA_remote_outlet\hdl\plc_i2c_fsm.vhd
+l0
+L16
+VAN`L=zXb1dnG]IMM[58g@2
+!s100 85RDQ<K2Cl73^deoESgj`3
+R8
+32
+Z38 !s110 1446675078
+!i10b 1
+Z39 !s108 1446675078.216000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Donald\Desktop\FPGA_remote_outlet\hdl\plc_i2c_fsm.vhd|
+Z41 !s107 C:\Users\Donald\Desktop\FPGA_remote_outlet\hdl\plc_i2c_fsm.vhd|
+!i113 1
+R13
+R14
+Abehav
+R1
+R2
+R3
+R4
+DEx4 work 11 plc_i2c_fsm 0 22 AN`L=zXb1dnG]IMM[58g@2
+l105
+L37
+V0Rk<a2?m@LzCO3FS[cWhe0
+!s100 fmF9@1I:fNd40B<AZLl1z3
+R8
+32
+R38
+!i10b 1
+R39
+R40
+R41
+!i113 1
+R13
+R14
+Eremote_outlet_module_top
+Z42 w1446737104
+R1
+Z43 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+R3
+R4
+R5
+Z44 8C:\Users\Donald\Desktop\FPGA_remote_outlet\hdl\remote_outlet_module_top.vhd
+Z45 FC:\Users\Donald\Desktop\FPGA_remote_outlet\hdl\remote_outlet_module_top.vhd
+l0
+L16
+VBgAfQk5Nm7>KA^ab7XV]d1
+!s100 QHPf<iUQOdbLN`b<m7:zV3
+R8
+32
+Z46 !s110 1446737112
+!i10b 1
+Z47 !s108 1446737112.220000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Donald\Desktop\FPGA_remote_outlet\hdl\remote_outlet_module_top.vhd|
+Z49 !s107 C:\Users\Donald\Desktop\FPGA_remote_outlet\hdl\remote_outlet_module_top.vhd|
+!i113 1
+R13
+R14
+Awrapper
+R1
+R43
+R3
+R4
+Z50 DEx4 work 24 remote_outlet_module_top 0 22 BgAfQk5Nm7>KA^ab7XV]d1
+l160
+L43
+VGfTJkaB0jJcR?G3BmzSo`0
+!s100 YU[A63i<TUCl4fK_Q=[fD1
+R8
+32
+R46
+!i10b 1
+R47
+R48
+R49
+!i113 1
+R13
+R14
+Esys_tb
+Z51 w1446170177
+Z52 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z53 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+R3
+R4
+R5
+Z54 8C:\Users\Donald\Desktop\FPGA_remote_outlet\stimulus\sys_tb.vhd
+Z55 FC:\Users\Donald\Desktop\FPGA_remote_outlet\stimulus\sys_tb.vhd
+l0
+L17
+VLAAjLSFfgL0HBRAGVJ4>m1
+!s100 S31B[EQC8d59ECCmL9ZQQ3
+R8
+32
+Z56 !s110 1446172090
+!i10b 1
+Z57 !s108 1446172090.047000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Donald\Desktop\FPGA_remote_outlet\stimulus\sys_tb.vhd|
+Z59 !s107 C:\Users\Donald\Desktop\FPGA_remote_outlet\stimulus\sys_tb.vhd|
+!i113 1
+R13
+R14
+Atb
+R52
+R53
+R3
+R4
+DEx4 work 6 sys_tb 0 22 LAAjLSFfgL0HBRAGVJ4>m1
+l100
+L20
+VYTO:[Ngj[VR[>M0a0Jcz03
+!s100 Z=Jh8=M0NlTBoYz>T3Q2;3
+R8
+32
+R56
+!i10b 1
+R57
+R58
+R59
+!i113 1
+R13
+R14
